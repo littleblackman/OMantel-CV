@@ -4,14 +4,23 @@ gris foncé #424242
 */
 
 h1{
+	font-size: 22px;
+}
+
+p {
 	font-size: 14px;
 }
 
-p{
-	font-size: 12px;
+/* Colonne info perso */
+
+.titre h1{
+font-size: 32px;
 }
 
-/* Colonne info perso */
+.titre h2{
+font-size: 20px;
+}
+
 .infoPerso{
 	background-color: #42a5f5;
 	color: white;
@@ -37,5 +46,13 @@ p{
 
 .infoPro h2{
 	font-size: 14px;
+}
+
+.date p{
+	font-size: 16px;
+}
+
+.contenuPro h1{
+	font-size: 18px;
 
 }
