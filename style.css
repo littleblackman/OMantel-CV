@@ -7,6 +7,10 @@ h1{
 	font-size: 14px;
 }
 
+p{
+	font-size: 12px;
+}
+
 /* Colonne info perso */
 .infoPerso{
 	background-color: #42a5f5;
@@ -19,4 +23,8 @@ h1{
 	max-width: 40%;
 	margin-top: 20px;
 	margin-bottom: 20px;
+}
+
+.infoPerso h1{
+	text-align: center;
 }
