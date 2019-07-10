@@ -11,3 +11,12 @@ h1{
 .infoPerso{
 	background-color: #42a5f5;
 }
+
+.infoPerso img{
+	border-radius: 100%;
+	display: block;
+	margin: auto;
+	max-width: 40%;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
