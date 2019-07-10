@@ -6,3 +6,8 @@ gris foncé #424242
 h1{
 	font-size: 14px;
 }
+
+/* Colonne info perso */
+.infoPerso{
+	background-color: #42a5f5;
+}
