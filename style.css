@@ -14,6 +14,7 @@ p{
 /* Colonne info perso */
 .infoPerso{
 	background-color: #42a5f5;
+	color: white;
 }
 
 .infoPerso img{
@@ -27,4 +28,7 @@ p{
 
 .infoPerso h1{
 	text-align: center;
+	background-color: #424242;
+	padding-top: 5px;
+	padding-bottom: 5px;
 }
