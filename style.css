@@ -32,6 +32,10 @@ font-size: 20px;
 	color: white;
 }
 
+.infoPerso + p{
+	width : 80%;
+	margin: auto;}
+
 .infoPerso img{
 	border-radius: 100%;
 	display: block;
