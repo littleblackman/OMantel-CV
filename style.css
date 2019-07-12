@@ -51,6 +51,10 @@ font-size: 20px;
 
 /* Colonne info pro ----------------- */
 
+.color{
+	color: #42a5f5;
+}
+
 .infoPro h2{
 	font-size: 14px;
 }
