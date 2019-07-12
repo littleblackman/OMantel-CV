@@ -30,6 +30,7 @@ font-size: 20px;
 .infoPerso{
 	background-color: #42a5f5;
 	color: white;
+	height: 1270px;
 }
 
 .infoPerso img{
@@ -48,6 +49,11 @@ font-size: 20px;
 	padding-bottom: 5px;
 }
 
+.loisirs{
+	position: absolute;
+	bottom: 0;
+	width : 90%;
+}
 /* Colonne info pro ----------------- */
 
 .infoPro h2{
