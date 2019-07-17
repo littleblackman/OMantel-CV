@@ -1,6 +1,10 @@
 /* couleurs
-bleu #42a5f5
-gris foncé #424242
+
+vert #00838F
+gris #455A64
+gris foncé #263238
+
+
 */
 
 h1{
@@ -12,7 +16,7 @@ p {
 }
 
 .decoration{
-	background-color: #42a5f5;
+	background-color: #00838F;
 	height: 2px;
 	width: 99%;
 }
@@ -28,7 +32,7 @@ font-size: 20px;
 }
 
 .infoPerso{
-	background-color: #42a5f5;
+	background-color: #00838F;
 	color: white;
 }
 
@@ -47,16 +51,23 @@ font-size: 20px;
 
 .infoPerso h1{
 	text-align: center;
-	background-color: #424242;
+	background-color: white;
+	color: #00838F;
 	padding-top: 5px;
 	padding-bottom: 5px;
+	border: solid #00838F 1px;
 }
 
 
 /* Colonne info pro ----------------- */
 
 .color{
-	color: #42a5f5;
+	color: #00838F ;
+}
+
+.colonneDroite{
+	background-color: white;
+	border: solid #00838F 1px;
 }
 
 .infoPro h2{
