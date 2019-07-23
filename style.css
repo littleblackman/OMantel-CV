@@ -58,6 +58,10 @@ font-size: 20px;
 	border: solid #00838F 1px;
 }
 
+.loisirIcone i{
+	font-size: 2em;
+}
+
 
 /* Colonne info pro ----------------- */
 
@@ -72,6 +76,10 @@ font-size: 20px;
 
 .infoPro h2{
 	font-size: 14px;
+}
+
+.infoProIcone i{
+	font-size: 25px;
 }
 
 .date p{
