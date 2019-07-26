@@ -22,6 +22,12 @@ p {
 }
 
 
+.deco{
+	text-decoration: underline;
+	text-decoration-color: #00838F ;
+	text-underline-position: under;
+}
+
 /* Colonne info perso -------------- */
 
 .titre h1{
